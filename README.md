@@ -1,3 +1,5 @@
+Development on this repository is stopped for now, please look into new version of web xml editor build with latest technology and new design https://github.com/lalitbhagtani/lb-xmleditor-v2
+
 
 # Xml Editor
 XML Editor is an online web-based tool, designed to create, view, format, edit, save and share xml file. This tool provides multiple features which will help you, to create simple and complex xml easily. Code from master branch is hosted [here](http://codedestine.com/xml-editor.html)
